@@ -35,3 +35,11 @@ HEIGHT = -2*STARTY
 
 
 # close the game
+
+
+
+
+
+
+# citation
+# https://pythonturtle.academy/connect-4-with-python-turtle-source-code-included/
