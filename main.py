@@ -15,7 +15,12 @@ score.up()
 score.hideturtle()
 
 # connect 4 board
-
+ROWS = 6
+COLS = 7
+STARTX = -450
+STARTY = -450*ROWS/COLS
+WIDTH = 2*STARTX
+HEIGHT = -2*STARTY
 
 # player pieces
 
