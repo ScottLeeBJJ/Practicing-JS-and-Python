@@ -33,6 +33,7 @@ def draw_rectangle(x,y,w,h,color):
     turtle.left(90)
     turtle.fd(h)
     turtle.left(90)
+
     
 
 # player pieces
